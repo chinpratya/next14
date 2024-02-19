@@ -1,0 +1,18 @@
+[
+  {
+    "purposeID": "531d408f-49ba-4225-bca4-5c0e98d26561",
+    "legalBasis": "TH",
+    "group": "ROP Service",
+    "status": "active",
+    "organization": "sp",
+    "name": "OneFence1"
+  },
+  {
+    "purposeID": "aa6567b4-0faa-48f1-adcb-ffd40d5f42e7",
+    "legalBasis": "TH",
+    "group": "ROP Service",
+    "status": "active",
+    "organization": "sp",
+    "name": "OneFence2"
+  }
+]

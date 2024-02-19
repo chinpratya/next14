@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Brute-force",
+    "event": 3800
+  },
+  {
+    "name": "Adware",
+    "event": 3200
+  },
+  {
+    "name": "File Scanning",
+    "event": 2100
+  },
+  {
+    "name": "trojan",
+    "event": 1600
+  },
+  {
+    "name": "Web Attack",
+    "event": 1400
+  },
+  {
+    "name": "Worm",
+    "event": 1100
+  },
+  {
+    "name": "Backdoor",
+    "event": 1000
+  },
+  {
+    "name": "APT",
+    "event": 600
+  },
+  {
+    "name": "Ransomware",
+    "event": 400
+  },
+  {
+    "name": "MinkatZ",
+    "event": 200
+  }
+]

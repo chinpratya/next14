@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Antivirus Detection",
+    "follower": 100
+  },
+  {
+    "id": 2,
+    "name": "External Analysis",
+    "follower": 100
+  },
+  {
+    "id": 3,
+    "name": "Network Activity",
+    "follower": 100
+  },
+  {
+    "id": 4,
+    "name": "Payload Installation",
+    "follower": 100
+  },
+  {
+    "id": 5,
+    "name": "Attribution",
+    "follower": 100
+  },
+  {
+    "id": 6,
+    "name": "Artifacts Dropped",
+    "follower": 100
+  },
+  {
+    "id": 7,
+    "name": "Targeting Data",
+    "follower": 100
+  },
+  {
+    "id": 8,
+    "name": "SSH",
+    "follower": 100
+  },
+  {
+    "id": 9,
+    "name": "Internal Reference",
+    "follower": 100
+  }
+]

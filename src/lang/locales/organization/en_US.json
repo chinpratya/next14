@@ -1,0 +1,11 @@
+{
+  "organization.setting": "Organization Settings",
+  "organization.details": "Organization Details",
+  "organization.units": "Organization",
+  "organization.users": "Users",
+  "organization.groups": "Users Groups",
+  "organization.prefix": "Prefix",
+  "organization.position": "Position",
+  "organization.roles": "Roles",
+  "organization.permissions": "Permissions"
+}

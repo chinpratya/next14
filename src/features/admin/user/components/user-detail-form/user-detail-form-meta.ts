@@ -1,0 +1,32 @@
+import validation from '@/utils/validation';
+
+export const rules = {
+  profile: [validation.required('profile')],
+  prefix: [validation.required('Prefix')],
+  firstName: [validation.required('First name')],
+  lastName: [validation.required('Last name')],
+  idCard: [validation.required('ID card')],
+  email: [
+    validation.required('กรุณากรอกอีเมล'),
+    validation.email(),
+  ],
+  phone: [validation.required('Phone')],
+  male: [validation.required('male')],
+  birthday: [validation.required('Birthday')],
+  age: [validation.required('Age')],
+  orgName: [validation.required('Organization')],
+  orgShortName: [validation.required('Short name')],
+  department: [validation.required('Department')],
+  departmentHead: [validation.required('Head count')],
+  position: [validation.required('Position')],
+  jobTitle: [validation.required('Job title')],
+  employeeCode: [validation.required('Job ID')],
+  employeeType: [validation.required('Job type')],
+  startDate: [validation.required('Start date')],
+  endDate: [validation.required('End date')],
+  address: [validation.required('Address')],
+  province: [validation.required('Province')],
+  district: [validation.required('District')],
+  subDistrict: [validation.required('Sub district')],
+  postalCode: [validation.required('Zip code')],
+};

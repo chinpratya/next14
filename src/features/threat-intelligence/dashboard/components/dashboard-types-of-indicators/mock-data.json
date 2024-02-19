@@ -1,0 +1,27 @@
+[
+  {
+    "id": "File",
+    "label": "File",
+    "value": 5900
+  },
+  {
+    "id": "URL",
+    "label": "URL",
+    "value": 5100
+  },
+  {
+    "id": "Host name",
+    "label": "Host name",
+    "value": 4100
+  },
+  {
+    "id": "Email address",
+    "label": "Email address",
+    "value": 3900
+  },
+  {
+    "id": "IPv4 address",
+    "label": "IPv4 address",
+    "value": 2800
+  }
+]

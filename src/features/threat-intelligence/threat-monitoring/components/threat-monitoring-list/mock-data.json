@@ -1,0 +1,48 @@
+{
+  "microsoftWindows": [
+    {
+      "id": 1,
+      "label": "Ubuntu Pro",
+      "value": "Ubuntu Pro"
+    },
+    {
+      "id": 2,
+      "label": "Windows Server Windows 10 Pro",
+      "value": "Windows Server Windows 10 Pro"
+    },
+    {
+      "id": 3,
+      "label": "Windows 7 Pro",
+      "value": "Windows 7 Pro"
+    },
+    {
+      "id": 4,
+      "label": "Windows Pro",
+      "value": "Windows Pro"
+    }
+  ],
+  "linux": [
+    {
+      "id": 1,
+      "label": "Linux1",
+      "value": "Linux1"
+    },
+    {
+      "id": 2,
+      "label": "Linux2",
+      "value": "Linux2"
+    }
+  ],
+  "unix": [
+    {
+      "id": 1,
+      "label": "Unix1",
+      "value": "Unix1"
+    },
+    {
+      "id": 2,
+      "label": "Unix2",
+      "value": "Unix2"
+    }
+  ]
+}

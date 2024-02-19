@@ -1,0 +1,18 @@
+[
+  {
+    "id": "93159de9-0eae-4354-9adb-1e70b45573fe",
+    "name": "แผนก Maketing",
+    "email": "Punnyisa@gmail.com",
+    "type": "บุคคล",
+    "organization": "SP",
+    "organizationType": "ภายใน"
+  },
+  {
+    "id": "d626f8e5-4b00-4c3e-9f48-9ecb00aa4cf5",
+    "name": "บริษัท ABC",
+    "email": "Nonnatin@gmail.com",
+    "type": "บุคคล",
+    "organization": "SP",
+    "organizationType": "ภายนอก"
+  }
+]

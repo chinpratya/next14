@@ -1,0 +1,14 @@
+.ant-popover-message {
+    display: flex;
+    gap: 8px;
+    padding: 16px !important;
+
+}
+
+.ant-popover-message-icon {
+    color: #faad14;
+}
+
+.ant-popover-message-title {
+    padding-left: 0 !important;
+}

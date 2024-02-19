@@ -1,0 +1,32 @@
+export const channels = [
+  {
+    assetID: '99e4696f-31ea-48e1-8f3a-338270465894',
+    name: 'Channels1',
+    group: 'test',
+    owner: 'system',
+    country: 'TH',
+    organization: 'SP',
+    sourceID: 'aec0bedd-2ad5-47d9-9ac2-7028538ca716',
+    source: 'sourceMethod1',
+  },
+  {
+    assetID: '620a3bf9-0549-469e-986c-aded45959055',
+    name: 'Channels2',
+    group: 'test',
+    owner: 'system',
+    country: 'TH',
+    organization: 'SP',
+    sourceID: 'aec0bedd-2ad5-47d9-9ac2-7028538ca716',
+    source: 'sourceMethod1',
+  },
+  {
+    assetID: '78504e44-01c5-4ba3-be87-fe99563b5f67',
+    name: 'Channels3',
+    group: 'test',
+    owner: 'system',
+    country: 'TH',
+    organization: 'SP',
+    sourceID: 'aec0bedd-2ad5-47d9-9ac2-7028538ca716',
+    source: 'sourceMethod1',
+  },
+];

@@ -1,0 +1,11 @@
+{
+  "organization.setting": "ตั้งค่าองค์กร",
+  "organization.details": "รายละเอียดองค์กร",
+  "organization.units": "องค์กร/หน่วยงาน",
+  "organization.users": "ผู้ใช้งาน",
+  "organization.groups": "กลุ่มผู้ใช้งาน",
+  "organization.prefix": "คำนำหน้า",
+  "organization.position": "ตำแหน่ง",
+  "organization.roles": "บทบาท",
+  "organization.permissions": "การอนุญาติ"
+}

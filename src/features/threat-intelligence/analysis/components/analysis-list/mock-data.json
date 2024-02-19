@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "SSH Bruteforce IPs feed",
+    "type": "Brute-Force",
+    "severity": "low",
+    "date": "2023-07-25T09:41:26.566Z",
+    "source": "Cyberfence",
+    "notify": true
+  },
+  {
+    "id": 2,
+    "name": "Mirai.security.gives feed",
+    "type": "Network Activity",
+    "severity": "low",
+    "date": "2023-07-25T09:41:26.566Z",
+    "source": "Cyberfence",
+    "notify": true
+  },
+  {
+    "id": 3,
+    "name": "DigitalSide Malware report: MD5: 496c9edb37998c75697420560ada8d73",
+    "type": "Network Activity",
+    "severity": "high",
+    "date": "2023-07-25T09:41:26.566Z",
+    "source": "Cyberfence",
+    "notify": true
+  },
+  {
+    "id": 4,
+    "name": "OSINT Regin samples shared by VirusShare",
+    "type": "Network Activity",
+    "severity": "medium",
+    "date": "2023-07-25T09:41:26.566Z",
+    "source": "Cyberfence",
+    "notify": false
+  }
+]

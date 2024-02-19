@@ -1,0 +1,37 @@
+import { useMutation } from '@tanstack/react-query';
+
+import { API_ENDPOINT_INCIDENT_MANAGEMENT_BASE_URL } from '@/config/endpoint';
+import { apiClient } from '@/lib/api-client';
+import { incidentManagementQueryKeys } from '@/lib/queryKeys';
+import { queryClient } from '@/lib/react-query';
+
+export const createCondition = (
+  data: Record<string, unknown>
+) => {
+  return apiClient.post(`/condition`, data, {
+    baseURL: API_ENDPOINT_INCIDENT_MANAGEMENT_BASE_URL,
+  });
+};
+
+export type useCreateConditionProps = {
+  onSuccess?: (data: any) => void;
+};
+
+export const useCreateCondition = ({
+  onSuccess,
+}: useCreateConditionProps) => {
+  const { mutate, isLoading } = useMutation({
+    mutationFn: createCondition,
+    onSuccess: async (data) => {
+      await queryClient.invalidateQueries([
+        incidentManagementQueryKeys.rule.all,
+      ]);
+      onSuccess?.(data);
+    },
+  });
+
+  return {
+    submit: mutate,
+    isLoading,
+  };
+};

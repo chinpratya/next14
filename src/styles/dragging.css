@@ -1,0 +1,13 @@
+.row-dragging {
+    background-color: #fff;
+    border: 1px solid #e6ebf1;
+    border-radius: 4px;
+}
+
+.row-dragging td {
+    padding: 16px;
+}
+
+.row-dragging .drag-visible {
+    visibility: visible;
+}

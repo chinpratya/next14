@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Brute-force",
+    "count": 3800
+  },
+  {
+    "name": "Adware",
+    "count": 3200
+  },
+  {
+    "name": "File Scaning",
+    "count": 2100
+  },
+  {
+    "name": "trojan",
+    "count": 1600
+  },
+  {
+    "name": "Web Attack",
+    "count": 1400
+  },
+  {
+    "name": "worm",
+    "count": 1300
+  },
+  {
+    "name": "Backdoor",
+    "count": 1100
+  },
+  {
+    "name": "APT",
+    "count": 812
+  },
+  {
+    "name": "Ransomware",
+    "count": 470
+  },
+  {
+    "name": "MinikatZ",
+    "count": 350
+  }
+]

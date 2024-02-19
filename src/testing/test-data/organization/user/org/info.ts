@@ -1,0 +1,18 @@
+export const info = {
+  departmentId: '5ada6883-c3c7-4094-ac85-c03cd594e7e0',
+  department_type: 'การท่องเที่ยวและการโรงแรม',
+  department_name: 'Security Pitch',
+  department_abbreviation: 'tthh',
+  department_head: '',
+  under_department: '',
+  address: '',
+  province: '',
+  district: '',
+  sub_district: '',
+  zip_code: '',
+  email: '',
+  phone_number: '',
+  createdDt: '',
+  createdBy: '',
+  updatedDt: '',
+};

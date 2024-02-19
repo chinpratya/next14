@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "rating": 3.5,
+      "source": {
+        "title": "Microsoft Edge upgrades built-in Cloudflare VPN with 5GB of data",
+        "body": "Microsoft's Edge browser has recently enhanced its 'Edge Secure Network' feature, which now offers 5GB of data, significantly increasing from the previously offered 1GB. ...",
+        "tag": ["Microsoft"]
+      },
+      "detail": {
+        "title": "Phishing",
+        "total_data": 20792,
+        "update_frequency": "1 day"
+      },
+      "updatedAt": "2023-12-13T07:59:10.05Z"
+    },
+    {
+      "id": 2,
+      "rating": 3.5,
+      "source": {
+        "title": "Microsoft Edge upgrades built-in Cloudflare VPN with 5GB of data",
+        "body": "Microsoft's Edge browser has recently enhanced its 'Edge Secure Network' feature, which now offers 5GB of data, significantly increasing from the previously offered 1GB. ...",
+        "tag": ["Microsoft"]
+      },
+      "detail": {
+        "title": "Phishing",
+        "total_data": 20792,
+        "update_frequency": "1 day"
+      },
+      "updatedAt": "2023-12-13T07:59:10.05Z"
+    },
+    {
+      "id": 3,
+      "rating": 3.5,
+      "source": {
+        "title": "Microsoft Edge upgrades built-in Cloudflare VPN with 5GB of data",
+        "body": "Microsoft's Edge browser has recently enhanced its 'Edge Secure Network' feature, which now offers 5GB of data, significantly increasing from the previously offered 1GB. ...",
+        "tag": ["Microsoft"]
+      },
+      "detail": {
+        "title": "Phishing",
+        "total_data": 20792,
+        "update_frequency": "1 day"
+      },
+      "updatedAt": "2023-12-13T07:59:10.05Z"
+    },
+    {
+      "id": 4,
+      "rating": 3.5,
+      "source": {
+        "title": "Microsoft Edge upgrades built-in Cloudflare VPN with 5GB of data",
+        "body": "Microsoft's Edge browser has recently enhanced its 'Edge Secure Network' feature, which now offers 5GB of data, significantly increasing from the previously offered 1GB. ...",
+        "tag": ["Microsoft"]
+      },
+      "detail": {
+        "title": "Phishing",
+        "total_data": 20792,
+        "update_frequency": "1 day"
+      },
+      "updatedAt": "2023-12-13T07:59:10.05Z"
+    }
+  ]
+}
